@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "421907115506",
+    "project_id": "placesapp-4213f",
+    "storage_bucket": "placesapp-4213f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421907115506:android:88c89788034497b36b8f6b",
+        "android_client_info": {
+          "package_name": "com.manveer.placesApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421907115506-1288jb52qequcgvc2r4knvajo2l9jo0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manveer.placesApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "421907115506-bm1rbmjahg6ce773fqqcj887til6snrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhEvLTfF2bsdgw7GsfSpkNbHyAbqrz48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421907115506-bm1rbmjahg6ce773fqqcj887til6snrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
